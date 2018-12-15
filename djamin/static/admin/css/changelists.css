@@ -47,7 +47,8 @@
 }
 
 #changelist-form .results {
-  overflow-x: auto;
+    overflow-x: inherit;
+    margin-right: 0px;
 }
 
 #changelist .toplinks {
